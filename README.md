@@ -75,3 +75,83 @@ I update this **daily** to maintain consistency.
 
 # 📁 Repository Structure
 
+
+---
+
+# ✍️ How I Use This Repository
+
+Each module contains:
+
+- 📖 Concepts learned
+- 💻 Code snippets
+- 🧪 Practice exercises
+- 📝 Notes
+- ❓ Doubts
+- ✅ Key takeaways
+- 📸 Screenshots of outputs
+
+I update this repository **daily** to maintain consistency.
+
+---
+
+# 🚀 Key Learnings So Far
+
+### Module 01 – Git & Tools
+- git clone, add, commit, push
+- Repository management
+- Folder structuring
+- Markdown documentation
+- Terminal basics
+
+### TDS Concepts
+- APIs importance
+- Deployment basics
+- Real-world development workflow
+
+---
+
+# ❓ Doubts / Topics to Revisit
+- [ ] Git branching & merging
+- [ ] Pull requests
+- [ ] REST APIs
+- [ ] Flask/FastAPI basics
+- [ ] Cloud deployment
+
+---
+
+# 🔄 Weekly Progress Log
+
+| Week | What I Learned |
+|--------|----------------|
+| Week 1 | Git basics, repo setup, markdown |
+| Week 2 | |
+| Week 3 | |
+
+---
+
+# 🛠 Skills Gained
+
+- Git & Version Control
+- Python programming
+- SQL querying
+- Data analysis
+- API building
+- Deployment basics
+- Documentation
+- Project structuring
+
+---
+
+# 🎯 Final Goals
+
+By the end of this internship + TDS course, I aim to:
+
+- ✅ Build 2–3 real-world ML projects
+- ✅ Deploy at least 1 project online
+- ✅ Create API-based applications
+- ✅ Maintain professional repositories
+- ✅ Become job ready
+
+---
+
+⭐ **Daily commits + consistent learning = steady growth**
